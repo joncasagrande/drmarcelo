@@ -3,18 +3,18 @@
 All Backgrounds css and special css for this template
 ======================================================== */
 .background-1 {
-    background: url("../img/background/background-1.png") no-repeat 0 0 / cover;
+    background: url("./assets/img/background/background-1.png") no-repeat 0 0 / cover;
     background-position: center center;
     background-size: cover
 }
 
 .background-2 {
-    background: url("../img/background/background-2.png") no-repeat 0 0 / cover;
+    background: url("./assets/img/background/background-2.png") no-repeat 0 0 / cover;
     background-position: center center;
     background-size: cover
 }
 .background-3 {
-    background: url("../img/background/background-3.png") no-repeat 0 0 / cover
+    background: url("./assets/img/background/background-3.png") no-repeat 0 0 / cover
 }
 .background-4 {
     background-image: url("../img/background/4.png");
@@ -53,7 +53,7 @@ All Backgrounds css and special css for this template
     background: url("../img/background/background-1.png") no-repeat 0 0 / cover;
 }
 .intro-video.intro-mini {
-    background: url(../img/about_us/intro.png) no-repeat 0 0 / cover;
+    background: url(http://unicoderbd.com/theme/html/povital/templates/physiotherapy/img/about_us/intro.png) no-repeat 0 0 / cover;
 }
 .banner{
 	background: url("../img/banner/1.png") no-repeat 0 0 / cover;
